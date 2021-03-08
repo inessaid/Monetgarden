@@ -50,3 +50,8 @@ Several of us never used particle systems before and it was fascinating to learn
 ## What's next for Monet’s Garden
 
 The next step for Money’s garden is to provide customization of the environment. We briefly tried to work on that during the hackathon but there wasn’t enough Time to finish it. We’d also love to provide different scene options where the user chooses their favorite environment to meditate, and also choose from different guided meditation tracks. 
+
+![bridge](https://user-images.githubusercontent.com/43462511/110392338-c6fd2400-8036-11eb-914c-a5eb4b2734f2.JPG)
+![pond](https://user-images.githubusercontent.com/43462511/110392348-cd8b9b80-8036-11eb-8102-8707500b38ad.JPG)
+
+
